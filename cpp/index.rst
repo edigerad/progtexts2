@@ -24,7 +24,4 @@
    :maxdepth: 2
    :caption: Оглавление:
 
-   basic_info
-   ide
    syntax
-   additional
