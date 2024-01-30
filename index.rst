@@ -1,21 +1,22 @@
-Заметки по алгоритмическому программированию
+Алгоритмдік бағдарламалау бойынша ескерімдер
 ============================================
 
-Автор: Петр Калинин, 2008—н.в.
+Авторы: Петр Калинин, 2008—қ.у.
+Қазақ тіліндегі аудармасы: Едіге Радолда
 
-Этот документ можно распространять по лицензии GNU General Public License версии 3 или более поздней.
-Последнюю версию документа, а также исходный код в формате restructuredtext
-можно скачать с https://github.com/petr-kalinin/progtexts2.
+Бұл құжатты GNU General Public License 3 немесе одан кейінгі нұсқасы бойынша таратуға болады.
+Құжаттың соңғы нұсқасын, сондай-ақ restructuredtext пішіміндегі бастапқы кодын
+https://github.com/cpfed/progtexts2 сайтынан жүктеп алуға болады.
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Оглавление:
+   :caption: Мазмұны:
    :numbered:
 
    intro/index
    python_basics/index
-   cpp/index
+   cpp/syntax
    testing/06_testing_main
    complexity/index
    shortideas/index

@@ -19,8 +19,8 @@ sys.path.insert(0, os.path.abspath('../theme'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Заметки'
-copyright = 'Петр Калинин, 2008-н.в.'
+project = 'Ескерімдер'
+copyright = 'Петр Калинин, 2008-қ.у.'
 author = 'Петр Калинин'
 display_github = True
 
@@ -43,7 +43,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'ru'
+language = 'kz'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -65,14 +65,14 @@ html_theme_options = {
 
 html_context = {
   "display_github": True, 
-  "github_user": "petr-kalinin",
+  "github_user": "cpfed",
   "github_repo": "progtexts2",
   "github_version": "master",
   "conf_py_path": "/",
   "source_suffix": ".rst",
   "license": "GNU GPL",
-  "custom_footer": '<a href="https://algoprog.ru">algoprog.ru</a> — мой курс по алгоритмическому программированию</a>',
-  "left_footer": '<div class="wy-side-nav-search"><a href="https://algoprog.ru">algoprog.ru</a></div>',
+  "custom_footer": '<a href="https://esep.cpfed.kz">esep.cpfed.kz</a> — спорттық бағдарламаулға арналған қазақ тілді платформа</a>',
+  "left_footer": '<div class="wy-side-nav-search"><a href="https://notes.cpfed.kz">notes.cpfed.kz</a></div>',
   "metrica": '''
     <script defer data-domain="notes.cpfed.kz" src="https://a.cpfed.kz/js/script.js"></script>
 '''
